@@ -10,8 +10,23 @@ This study investigates the interactions between pulmonary surfactant components
 
 The systems stduied include:
 
-## Repository Structure
+Cholesterol (CHOL)
+DPPC
+POPG
+POPI
+Linoleic Acid (LA)
 
+## Repository Structure
+RBD-Surfactant Systems/
+CHOL/
+DPPC/
+POPG/
+POPI/
+LA/
+input/
+scripts/
+data/
+Figures/
 ## Methods
 
 ## Reproducing the Results
