@@ -8,25 +8,25 @@ Authors: Kolattukudy Santo, Ryan Jaworski, Alexander Neimark
 ## Overview
 This study investigates the interactions between pulmonary surfactant components and the receptor-binding domain (RBD) of the SARS-CoV-2 spike protein using multiscale molecular simulations.
 
-The systems stduied include:
-
-Cholesterol (CHOL)
-DPPC
-POPG
-POPI
-Linoleic Acid (LA)
+The systems stduied include:  
+  
+Cholesterol (CHOL)  
+DPPC  
+POPG  
+POPI    
+Linoleic Acid (LA)  
 
 ## Repository Structure
-RBD-Surfactant Systems/
-CHOL/
-DPPC/
-POPG/
-POPI/
-LA/
-input/
-scripts/
-data/
-Figures/
+RBD-Surfactant Systems/  
+CHOL/  
+DPPC/  
+POPG/  
+POPI/  
+LA/  
+input/  
+scripts/  
+data/  
+Figures/  
 ## Methods
 
 ## Reproducing the Results
