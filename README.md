@@ -18,15 +18,15 @@ Linoleic Acid (LA)
 
 ## Repository Structure
 RBD-Surfactant Systems/  
-CHOL/  
-DPPC/  
-POPG/  
-POPI/  
-LA/  
-input/  
-scripts/  
-data/  
-Figures/  
+   CHOL/  
+   DPPC/  
+   POPG/  
+   POPI/  
+   LA/  
+   input/  
+   scripts/  
+   data/  
+   Figures/  
 ## Methods
 
 ## Reproducing the Results
@@ -34,6 +34,4 @@ Figures/
 ## Data Availability
 
 ## Author  
-
-# SARS-CoV2
 
