@@ -1,0 +1,68 @@
+; mapping file for linoleic acid 
+
+[ molecule ]
+LIA
+
+[ martini ]
+COO C1 D2 D3 C4
+
+[ mapping ]
+charmm 36
+
+[ atoms ]
+1    H1 COO 
+2    O1 COO  
+3    O2 COO 
+4    C1 COO 
+5    C2 COO 
+6   H2R COO 
+7   H2S COO 
+8    C3 C1 
+9   H3R C1
+10  H3S C1 
+11   C4 C1 
+12  H4R C1 
+13  H4S C1 
+14   C5 C1 
+15  H5R C1 
+16  H5S C1 
+17   C6 C1 
+18  H6R C1 
+19  H6S C1 
+20   C7 D2 
+21  H7R D2 
+22  H7S D2 
+23   C8 D2 
+24  H8R D2  
+25  H8S D2 
+26   C9 D2 
+27  H9R D2
+28  C10 D2
+29 H10R D2
+30  C11 D3
+31 H11R D3
+32 H11S D3
+33  C12 D3
+34 H12R D3
+35  C13 D3
+36 H13R D3
+37  C14 D3
+38 H14R D3
+39 H14S D3
+40  C15 C4
+41 H15R C4
+42 H15S C4
+43  C16 C4
+44 H16R C4
+45 H16S C4
+46  C17 C4
+47 H17R C4
+48 H17S C4
+49  C18 C4
+50 H18R C4
+51 H18S C4
+52 H18T C4
+
+[ trans ]
+C9 C10 C11 C12
+C12 C13 C14 C15
