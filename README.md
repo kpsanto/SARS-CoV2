@@ -31,7 +31,11 @@ RBD-Surfactant Systems/
 
 ## Reproducing the Results
 
+All relevant structural and input parameter files are provided within the respective surfactant-specific directories, as well as in the input folder. The simulations can be reproduced using these files.
+ 
 ## Data Availability
 
+Additional data supporting the findings of this study are available from the corresponding author upon reasonable request.
 ## Author  
+Corresponding author: A. Neimark (aneimark@rutgers.edu)
 
