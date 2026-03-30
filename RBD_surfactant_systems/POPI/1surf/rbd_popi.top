@@ -1,0 +1,18 @@
+#include "../mff2/martini_v2.2.itp"
+
+#define RUBBER_BANDS
+
+#include "../mff2/Protein_A.itp"
+#include "../mff2/martini_v2.0_lipids_all_201506.itp"
+#include "../mff2/martini_v2.0_ions.itp"
+
+[ system ]
+; name
+RBD CHOL system 
+
+[ molecules ]
+; name        number
+Protein_A 	 1
+POPI        1
+W         35000
+CL-          6

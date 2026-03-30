@@ -1,4 +1,4 @@
-# Multi-scale modelling of coronavirus intractions with Lung Surfactant
+# Multi-scale modelling of coronavirus interactions with Lung Surfactant
 
 This repository contains the data and analysis scripts associated with the manuscript:
 
