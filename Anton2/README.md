@@ -5,11 +5,12 @@ This repository contains the data and analysis scripts associated with the manus
 
 "Identification and Characterization of Surfactant Binding Sites on the SARS-CoV-2 Spike Protein and its Variants by Microseconds-Long Molecular Dynamics Simulations " Authors: Kolattukudy Santo, Alexander Neimark
 
-# Overview 
+## Overview 
 This study investigates interactions of lung surfactant components DPPC, Cholesterol, and POPG with Spike protein receptor binding domain (RBD) of SARS-CoV 2 wild type, Delta and Omicron variants.
 
-# Repository structure 
+## Repository structure 
 RBDs/ 
-Input_files  
+
+Input_files/  
 
 
