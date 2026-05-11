@@ -8,6 +8,8 @@ This repository contains the data and analysis scripts associated with the manus
 # Overview 
 This study investigates interactions of lung surfactant components DPPC, Cholesterol, and POPG with Spike protein receptor binding domain (RBD) of SARS-CoV 2 wild type, Delta and Omicron variants.
 
-  
+# Repository structure 
+RBDs/
+Input_files  
 
 
