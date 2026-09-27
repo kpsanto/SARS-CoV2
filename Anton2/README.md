@@ -13,4 +13,9 @@ RBDs/
 
 Input_files/  
 
+Analysis/
+
+Processed_data/
+
+
 
